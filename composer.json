@@ -1,0 +1,20 @@
+{
+    "name": "jitu/e-sign",
+    "description": "Just E-Sign test project",
+    "type": "project",
+    "require": {
+        "tecnickcom/tcpdf": "^6.3",
+        "setasign/fpdi": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jitu",
+            "email": "jitu@tenancy.co.nz"
+        }
+    ]
+}
